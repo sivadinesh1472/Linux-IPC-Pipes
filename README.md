@@ -174,10 +174,9 @@ void client() {
 
 
 ```
+## OUTPUT
 
 ![named pipe](./img3/named%20pipe.png)
-
-## OUTPUT
 
 
 # RESULT:
